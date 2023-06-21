@@ -65,9 +65,7 @@
 </table>
    </div>
   
-   
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
   
 <div>  
   <h4 align="right"> Visitantes </h4>
