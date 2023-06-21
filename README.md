@@ -44,7 +44,7 @@
   
 
   <div>
-  <img align="right" alt="Alien" width="200" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/34cf2a101421873.5f1ec26ecc74c.gif">
+  <img align="right" alt="Alien" width="200" height="217" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/34cf2a101421873.5f1ec26ecc74c.gif">
     
   </div>
  
