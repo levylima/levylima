@@ -1,6 +1,6 @@
-<h1 align="center">Olá 🛸, bem vindo(a)! </h1>
+<h1 align="center">Olá! Eu sou o Levy Lima 🚀 </h1>
 
-  Sou um Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e finalizei o bootcamp da [Generation Brasil](https://brazil.generation.org), onde trabalhei no desenvolvimento de uma rede social [Zênite](https://redezenite.netlify.app), utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros. Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente. 
+  Sou um Desenvolvedor JavaScript Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e finalizei o bootcamp da [Generation Brasil](https://brazil.generation.org), onde trabalhei no desenvolvimento de uma e-commerce [Renova](https://redezenite.netlify.app), utilizando TypeScript 🟦 Nestjs 🐱 MySQL 🐬 React ⚛️ entre outros. Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente. 
 
 
 
@@ -31,10 +31,8 @@
 <img align = "center" src="https://i.imgur.com/g6Wg8Ey.png" alt="java" width="40" height="40"/> 
 <img align = "center" src="https://i.imgur.com/emPAeK4.png" alt="spring" width="40" height="40"/> 
 <img align = "center" src="https://i.imgur.com/eKV8V75.png  alt="python" width="40" height="40"/>
-<img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/> 
-<img align = "center" src="https://i.imgur.com/co3aDyw.png" alt="junit" width="30" height="30"/>                     
+<img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>                     
 <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/> 
-<img align = "center" src="https://i.imgur.com/WVuA8RH.png" alt="postman" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/aQ5tyLv.png" alt="heroku" width="35" height="35"/> 
@@ -46,7 +44,7 @@
   
 
   <div>
-  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv">
+  <img align="right" alt="Alien" width="200" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/34cf2a101421873.5f1ec26ecc74c.gif">
     
   </div>
  
